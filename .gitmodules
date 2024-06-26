@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "VsusP"]
+	path = VsusP
+	url = https://github.com/nilson01/vsusp-variable-selection-using-shrinkage-priors
